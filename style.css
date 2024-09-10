@@ -43,6 +43,7 @@ img {
 .center {
   position: absolute;
   top: 400px;
+  text-align: center;
 }
 .cointainer2 {
   position: relative;

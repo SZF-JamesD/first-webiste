@@ -1,0 +1,59 @@
+body {
+    background-color: rgba(0, 0, 0, 0.548);
+}
+
+h1 {
+    font-family: 'Courier';
+    color: rgb(255, 255, 255);
+}
+
+h2 {   
+    font-family: 'Courier';
+    color: rgb(255, 255, 255);
+}
+
+button {
+    font-family: 'Courier';
+    font-size: 20px;
+    border-radius: 4px;
+    border: 2px solid black;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: gray;
+    color: rgb(255, 255, 255)
+}
+.cointainer {
+    position: absolute;
+    text-align: center;
+    color: white;
+    
+}
+img{
+    opacity: 0.6;
+}
+.topleft {
+    
+    position: absolute;
+    top: 500px;
+    left:4px
+}
+
+.cointainer2{
+    position: relative;
+    
+}
+p {
+    font-family: 'Courier';
+    font-size: 20px;
+    color: white;
+}
+
+ul {
+    font-family: 'Courier';
+    font-size: 20px;
+    color: white;
+}
